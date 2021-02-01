@@ -37,8 +37,6 @@
   <p align="center">
     Python script to integratee PostgreSQL with Email and Google Calendar
     <br />
-    <a href="https://github.com/HideyoshiNakazone/duo-db-client"><strong>Explore the docs »</strong></a>
-    <br />
     <br />
     <a href="https://github.com/HideyoshiNakazone/duo-db-client/issues">Report Bug</a>
     ·
